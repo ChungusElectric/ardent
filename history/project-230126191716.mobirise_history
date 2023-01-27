@@ -71,6 +71,8 @@
     "versionPublish": "5.6.13",
     "screenshot": "screenshot.png",
     "witsec-white-label": true,
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@",
     "google-analytics": "<!-- Start of HubSpot Embed Code -->\n<script type=\"text/javascript\" id=\"hs-script-loader\" async defer src=\"//js.hs-scripts.com/23860272.js\"></script>\n<!-- End of HubSpot Embed Code -->"
   },
   "pages": {
