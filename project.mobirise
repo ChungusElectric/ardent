@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Services.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -700,7 +700,7 @@
       "settings": {
         "main": true,
         "title": "Home",
-        "meta_descr": "We are an Erie Electric service company that is driven to be the absolute best in value.",
+        "meta_descr": "We are an Electric service company that is driven to be the absolute best in value in the Erie county and surrounding area.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
